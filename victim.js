@@ -19,7 +19,7 @@ fetch("https://it.airbnb.com/api/v2/users/me?currency=USD&key=d306zoyjsyarp7ifhu
   },
   "referrer": "https://it.airbnb.com/account-settings/personal-info",
   "referrerPolicy": "strict-origin-when-cross-origin",
-  "body": "{\"email\":\"kontakm.anusiamilenial@gmail.com\",\"_format\":\"for_account_settings_personal_info\"}",
+  "body": "{\"email\":\"kontakmanu.siamilenial@gmail.com\",\"_format\":\"for_account_settings_personal_info\"}",
   "method": "PUT",
   "mode": "cors",
   "credentials": "include"
